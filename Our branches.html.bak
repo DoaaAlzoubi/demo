@@ -1,0 +1,14 @@
+<html>
+<body dir="rtl">
+<h1 dir="outo"</h1>
+<hr align=width=50%>
+<center dir="rtl">
+<table border=0 style="font-size:30;">
+<tr><th>country</th><th>place</th><th>phone</th></tr>
+
+<tr><th><i>سوريا\درعا</th><th><i>وسط البلد</th><th><i>0785085095</th></tr>
+<tr><th><i>الأردن \الصريح</th><th><i>حي الأطباء</th><th><i>0787168287</th1></tr>
+</table>
+</body>
+
+</html>

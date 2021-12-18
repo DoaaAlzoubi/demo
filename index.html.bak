@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Ali Baba</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+  <frameset rows="17%, *" border="0">
+    <frame src="top.html">
+    <frameset cols="10%, *">
+      <frame src="menu.html">
+      <frame src="alibaba.html" name="main">
+      </frame>
+    </frameset>
+  </frameset>
+</html>

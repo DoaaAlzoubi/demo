@@ -1,0 +1,10 @@
+<html>
+<fieldset>
+<legend>search:</legend>
+<input type="text" value=!"!Search our Website&hellip";
+onfocus="this.value=(this.value=='Search our Website&hellip;')?":this.value;">
+<input type="submit"
+id="sf-submit"value="submit">
+</fieldset>
+
+</html>
